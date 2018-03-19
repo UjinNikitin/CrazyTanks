@@ -1,0 +1,3 @@
+﻿  CrazyTanks.cpp
+CrazyTanks.cpp(78): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  CrazyTanks.vcxproj -> D:\Dezmant991\Учебники\Labы\Алгоритмы\CrazyTanks\Debug\CrazyTanks.exe
